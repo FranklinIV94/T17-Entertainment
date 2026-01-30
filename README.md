@@ -8,7 +8,7 @@
 
 Founded and operated by **Franklin Bryant IV** (stage name: **King**), T17 Entertainment Services is an independent label focused on alternative hip-hop and pop.
 
-**What makes us different:** Every track released under T17 is written, produced, and audio engineered in-house. No ghost writers. No outsourced mixing. Authentic artistry from concept to master.
+**What makes us different:** Authentic artistry from concept to final master. Songwriting, recording, engineering, and mastering handled in-house.
 
 ---
 
@@ -18,7 +18,7 @@ Founded and operated by **Franklin Bryant IV** (stage name: **King**), T17 Enter
 
 | Artist | Genre | Role |
 |--------|-------|------|
-| **King** | Alternative Hip-Hop / Pop | Writer, Vocalist, Audio Engineer |
+| **King** | Alternative Hip-Hop / Pop | Songwriter, Vocalist, Audio Engineer |
 | **DJLR6** | Electronic / Dance | Producer, DJ |
 | **NatureBoySkip** | Hip-Hop | Vocalist |
 | **DJLR6 & King** | Crossover | Collaboration |
@@ -40,13 +40,13 @@ Founded and operated by **Franklin Bryant IV** (stage name: **King**), T17 Enter
 
 ---
 
-## 🛠️ Production Credits
+## 🛠️ Credits
 
-**Franklin Bryant IV** handles all aspects of production:
+**Franklin Bryant IV** handles:
 
 - ✍️ **Songwriting** — Lyrics and composition
-- 🎹 **Production** — Beat making and arrangement  
-- 🎚️ **Mixing** — Audio engineering and mixing
+- 🎤 **Recording** — Vocal performance and session recording
+- 🎚️ **Engineering** — Audio engineering and mixing
 - 🎛️ **Mastering** — Final audio polish
 - 🎨 **Creative Direction** — Visual identity and branding
 
@@ -86,7 +86,7 @@ Auto-Tune E → Midnight Co → Midnight EQ → St-Delay → Chorus → Multipre
 ## 📈 Services
 
 ### For Artists
-- Production and engineering
+- Recording and engineering
 - Mix and master services
 - Release strategy and distribution
 - Content creation support
