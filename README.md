@@ -23,13 +23,20 @@ Founded and operated by **Franklin Bryant IV** (stage name: **King**), T17 Enter
 | **NatureBoySkip** | Hip-Hop | Vocalist |
 | **DJLR6 & King** | Crossover | Collaboration |
 
+### Discography
+
+| Release | Year | Tracks | Label |
+|---------|------|--------|-------|
+| **WHTNBLK** | 2025 | 13 | T17 Entertainment |
+| **Summer Sessions: Volume 2** (w/ Chad Millie) | 2024 | 10 | 400 Cash Records / T17 Entertainment |
+
 ### Listen Now
 
 🎵 **Streaming Platforms:**
-- [Spotify](#) *(add link)*
-- [Apple Music](#) *(add link)*
-- [YouTube Music](#) *(add link)*
-- [SoundCloud](#) *(add link)*
+- [Apple Music](https://music.apple.com/us/artist/king/1461432503)
+- [Spotify](https://open.spotify.com/artist/29fNIY8iccWLXVnbnfgPBh)
+- YouTube Music *(coming soon)*
+- SoundCloud *(coming soon)*
 
 ---
 
@@ -42,6 +49,37 @@ Founded and operated by **Franklin Bryant IV** (stage name: **King**), T17 Enter
 - 🎚️ **Mixing** — Audio engineering and mixing
 - 🎛️ **Mastering** — Final audio polish
 - 🎨 **Creative Direction** — Visual identity and branding
+
+---
+
+## 🎬 Tools We Use
+
+### DAW & Production
+
+| Purpose | Tools |
+|---------|-------|
+| **Primary DAW** | Logic Pro X |
+| **Secondary DAW** | Ableton Live |
+
+### Lead Vocal Chain
+```
+Auto-Tune E → Scarlett Co → Scarlett EQ → Space D → Chorus → Multipressor → Ensemble → COSMOS
+```
+
+### Backing Vocal Chain
+```
+Auto-Tune E → Midnight Co → Midnight EQ → St-Delay → Chorus → Multipressor → Ensemble
+```
+
+### Creative Suite
+
+| Purpose | Tools |
+|---------|-------|
+| **Photo Editing** | Adobe Lightroom |
+| **Graphics** | Adobe Illustrator |
+| **Distribution** | DistroKid |
+| **Promotion** | SubmitHub, Groover, direct outreach |
+| **AI Video** | Kaiber, Runway ML |
 
 ---
 
@@ -58,18 +96,6 @@ Founded and operated by **Franklin Bryant IV** (stage name: **King**), T17 Enter
 - Playlist pitching and promotion
 - YouTube channel optimization
 - Social media content strategy
-
----
-
-## 🎬 Tools We Use
-
-| Purpose | Tools |
-|---------|-------|
-| **DAW** | *(add your DAW — Logic, FL Studio, Ableton, etc.)* |
-| **Mixing** | *(plugins, hardware)* |
-| **Distribution** | DistroKid / TuneCore / etc. |
-| **Promotion** | SubmitHub, Groover, direct outreach |
-| **AI Video** | Kaiber, Runway ML |
 
 ---
 
