@@ -21,22 +21,50 @@ Founded and operated by **Franklin Bryant IV** (stage name: **King**), T17 Enter
 | **King** | Alternative Hip-Hop / Pop | Songwriter, Vocalist, Audio Engineer |
 | **DJLR6** | Electronic / Dance | Producer, DJ |
 | **NatureBoySkip** | Hip-Hop | Vocalist |
-| **DJLR6 & King** | Crossover | Collaboration |
-
-### Discography
-
-| Release | Year | Tracks | Label |
-|---------|------|--------|-------|
-| **WHTNBLK** | 2025 | 13 | T17 Entertainment |
-| **Summer Sessions: Volume 2** (w/ Chad Millie) | 2024 | 10 | 400 Cash Records / T17 Entertainment |
+| **Chad Millie** | Hip-Hop | Vocalist |
 
 ### Listen Now
 
 🎵 **Streaming Platforms:**
 - [Apple Music](https://music.apple.com/us/artist/king/1461432503)
 - [Spotify](https://open.spotify.com/artist/29fNIY8iccWLXVnbnfgPBh)
-- YouTube Music *(coming soon)*
-- SoundCloud *(coming soon)*
+
+---
+
+## 📀 Full Discography
+
+### Albums & EPs
+
+| Year | Release | Tracks | Notes |
+|------|---------|--------|-------|
+| 2025 | **WHTNBLK** | 13 | Latest release |
+| 2024 | **Summer Sessions: Volume 2** | 10 | w/ Chad Millie |
+| 2023 | **Blknwht** | 12 | |
+| 2023 | **Summer Sessions: Volume 1** | 7 | w/ Chad Millie |
+| 2020 | **Popstar: Deluxe** | 10 | |
+| 2020 | **Popstar** | 10 | |
+| 2020 | **Winter in Miami** | 7 | |
+| 2019 | **Deadman's Tale** | 10 | |
+| 2019 | **Back from the Dead** | 10 | |
+| 2019 | **Summertime Blues II** | 10 | |
+
+### Singles
+
+| Year | Release | Features |
+|------|---------|----------|
+| 2023 | Tired of Hearing the Same Things | Cheap Limousine, DJLR6 |
+| 2022 | Time & Passions | |
+| 2022 | Club 27 | |
+| 2022 | Vicegrips | |
+| 2021 | Fears & Feelings | Samrothsteinfromthe94 |
+| 2021 | High As It Gets | |
+| 2021 | Telescopes | Saund, LCS |
+| 2020 | Drugs Too Strong | |
+| 2020 | Relapse/Relax | |
+| 2020 | 941 Legend | |
+| 2019 | August | |
+
+**Total: 21 releases (2019-2025)**
 
 ---
 
